@@ -37,7 +37,19 @@
     padding: 0 30px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   }
+  form div {
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+  input:focus {
+    border: 2px solid #f2796e;
+  }
   
   
     
+  form div i {
+    position: absolute;
+    padding: 10px;
+  }
   
