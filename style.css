@@ -122,5 +122,17 @@ button {
     background-color: #4f70b5;
     color: white;
   }
+  .or {
+    text-align: center;
+  }
   
+  .question {
+    font-size: 15px;
+  }
+  
+  span {
+    color: #f2796e;
+    cursor: pointer;
+  }
+    
   
