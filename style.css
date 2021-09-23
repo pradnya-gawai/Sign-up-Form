@@ -176,5 +176,23 @@ button {
      max-width: none;
   }
       
+  @media (max-width: 900px) {
+    .container {
+      flex-direction: column;
+    }
+  
+    form,
+    .content {
+      width: 100%;
+    }
+  
+    .btn {
+      flex-direction: column;
+    }
+    .image {
+      height: 70vh;
+    }
+  }
+  
   
   
